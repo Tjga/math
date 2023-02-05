@@ -1,15 +1,3 @@
-"""
-code my method to find exponnetial funtion out of coordinates
-
-show image of the exponential function and it passing through the 
-given coordinates and plotting them
-
-b = (y2/y1)**(1/(x2-x1))
-a = (y1/b**x1)
-
-the title, = the equation  y = ab**x
-"""
-
 from pylab import plot, show, legend, title, xlabel, ylabel
 import numpy as np
 
